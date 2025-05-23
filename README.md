@@ -15,7 +15,7 @@ Open your terminal (Command Prompt, PowerShell, or Terminal) and run:
 ```sh
 docker pull ardahalim/unit-converter
 ```
-or from docker hub: https://hub.docker.com/r/ardahalim/unit-converter
+or from [docker hub](https://hub.docker.com/r/ardahalim/unit-converter)
 
 
 ## 3. **Run the Application Interactively**
@@ -23,7 +23,7 @@ or from docker hub: https://hub.docker.com/r/ardahalim/unit-converter
 To use the application and provide input via your keyboard, run:
 
 ```sh
-docker run -it ardahalim/unit-converter
+docker run -it ardahalim/unit-converter     
 ```
 
 This will start the application and display the converter menu.  
